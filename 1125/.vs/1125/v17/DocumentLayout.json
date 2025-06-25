@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sovel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SSU\\2\uD559\uAE30\\\uD50C\uBC0D2\\1125\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C147091-1585-4615-B3BD-51BAEC33E1D5}|1125\\1125.vcxproj|C:\\Users\\sovel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SSU\\2\uD559\uAE30\\\uD50C\uBC0D2\\1125\\1125\\1125.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C147091-1585-4615-B3BD-51BAEC33E1D5}|1125\\1125.vcxproj|solutionrelative:1125\\1125.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1125.cpp",
+              "DocumentMoniker": "C:\\Users\\sovel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SSU\\2\uD559\uAE30\\\uD50C\uBC0D2\\1125\\1125\\1125.cpp",
+              "RelativeDocumentMoniker": "1125\\1125.cpp",
+              "ToolTip": "C:\\Users\\sovel\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SSU\\2\uD559\uAE30\\\uD50C\uBC0D2\\1125\\1125\\1125.cpp",
+              "RelativeToolTip": "1125\\1125.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T18:43:29.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

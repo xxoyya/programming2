@@ -1,0 +1,3 @@
+﻿  0909_4.cpp
+C:\Users\sovel\source\repos\0909_4\0909_4\0909_4.cpp(8,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  0909_4.vcxproj -> C:\Users\sovel\source\repos\0909_4\0909_4\x64\Debug\0909_4.exe

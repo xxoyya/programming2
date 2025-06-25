@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\sovel\OneDrive\바탕 화면\7_SFML\7_SFML\main.cpp(78,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sovel\OneDrive\바탕 화면\7_SFML\7_SFML\main.cpp(122,39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sovel\OneDrive\바탕 화면\7_SFML\7_SFML\main.cpp(124,30): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sovel\OneDrive\바탕 화면\7_SFML\7_SFML\main.cpp(145,42): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sovel\OneDrive\바탕 화면\7_SFML\7_SFML\main.cpp(147,45): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  7_SFML.vcxproj -> C:\Users\sovel\OneDrive\바탕 화면\7_SFML\x64\Debug\7_SFML.exe

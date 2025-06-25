@@ -1,0 +1,3 @@
+﻿  0909_2.cpp
+0909_2.obj : error LNK2005: main이(가) 0909.obj에 이미 정의되어 있습니다.
+C:\Users\sovel\OneDrive\바탕 화면\SSU\2학기\플밍2\0909\x64\Debug\0909.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
